@@ -39,5 +39,5 @@ Data on AI, ML, DS & Big Data Jobs is a  dataset containing job opportunities in
 | 9|  The top 5 countries offering higher average salaries .|
 | 10|  The most common requirements for data, AI, ML, and DL are a computer science or engineering degree.|
 | 11|  Data and ML fields need knowledge and experience with AWS (Amazon Web Service), like Could.|
-| 11|  AI fields need knowledge of mathematics.|
-| 11|  Deep learning needs knowledge of computer vision and Python.|
+| 12|  AI fields need knowledge of mathematics.|
+| 13|  Deep learning needs knowledge of computer vision and Python.|
